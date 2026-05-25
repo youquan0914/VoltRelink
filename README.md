@@ -11,6 +11,14 @@ You can define multiple battery level thresholds, such as getting one alert at 8
 Lightweight and focused
 
 
+First you need to configure Server酱^3 (https://sc3.ft07.com/sendkey),
+
+then enter the send key into the app.
+
+You need to download the Server酱 app to receive push notifications. (https://sc3.ft07.com/client) 
+
+New push methods will be gradually added later, as this is still under res
+
 **VoltRelink** 是一款专为「双持党」设计的充电管理应用，帮助用户在副机电量充满时第一时间收到主机通知，从而避免长时间插着电源导致电池过热、续航衰减等问题。 相比只在本机提示电量的传统电池应用，VoltRelink 的特点是可以跨设备通知电量状态，让你不用反复查看另一台手机的屏幕，也能安心充电。
 
 核心痛点
@@ -31,3 +39,13 @@ Lightweight and focused
 可以自定义多个提醒阈值，例如 80% 提醒一次、100% 再提醒一次，方便用户控制在更健康的电量区间内充电。
 
 轻量、专注、无复杂操作
+
+
+
+首先需要配置server酱^3（ https://sc3.ft07.com/sendkey ）
+
+然后输入 send key 进去app就好了
+
+需要下载server酱app以接收推送 （ https://sc3.ft07.com/client ） 
+
+之后会慢慢添加新的推送方式，因为还在研究中（
