@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Battery Cap -->
+    <path
+        android:fillColor="#FFEA00"
+        android:pathData="M48,26 h12 v4 h-12 z" />
+    <!-- Battery Body Outline -->
+    <path
+        android:strokeColor="#FFEA00"
+        android:strokeWidth="4"
+        android:strokeLineJoin="round"
+        android:pathData="M38,30 h32 v52 h-32 z" />
+    <!-- Lightning Bolt -->
+    <path
+        android:fillColor="#FFEA00"
+        android:pathData="M58,42 L42,58 H54 L50,72 L66,56 H54 Z" />
+</vector>

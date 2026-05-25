@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.VoltRelay" parent="Theme.MaterialComponents.Light" />
+</resources>
